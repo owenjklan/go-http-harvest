@@ -44,3 +44,5 @@ According to Pluralsight, these courses were updated in November 2022 and Februa
 - Turn it into a simple webservice
 - After making it a webservice, Dockerize it and then turn it into a Kubernetes
   Service / Deployment (for the purpose of more practical Kubernetes experience).
+- The `byteseq` submodule is usable elsewhere, so it should probably be split into
+  a module and repo of its own.
