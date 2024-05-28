@@ -2,7 +2,7 @@ package netobjects
 
 import (
 	"fmt"
-	"go-http-harvest/byteseq"
+	"github.com/owenjklan/byteseq"
 	"net"
 	"net/netip"
 	"strconv"
